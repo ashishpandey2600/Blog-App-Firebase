@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>191975987765-fa02n3abk2b4r0bb10udjoga89pph2ob.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.191975987765-fa02n3abk2b4r0bb10udjoga89pph2ob</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCg2Gn9S0aOyysXo5yXZXSbkVuTLntC3ow</string>
+	<key>GCM_SENDER_ID</key>
+	<string>191975987765</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.blogappflutternew</string>
+	<key>PROJECT_ID</key>
+	<string>blogappnew-3c5a6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blogappnew-3c5a6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:191975987765:ios:57287edc153382191daf7c</string>
+</dict>
+</plist>
