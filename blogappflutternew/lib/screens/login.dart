@@ -30,7 +30,6 @@ class _LogInState extends State<LogIn> {
       child: Scaffold(
         appBar: AppBar(
           title: Text("LogIn"),
-         
         ),
         body: Column(
             mainAxisAlignment: MainAxisAlignment.center,
@@ -98,6 +97,7 @@ class _LogInState extends State<LogIn> {
                                   showspinner = true;
                                 });
                                 try {
+                                  
                                   final user =
                                       await _auth.signInWithEmailAndPassword(
                                           email: email.toString().trim(),
@@ -122,7 +122,6 @@ class _LogInState extends State<LogIn> {
                                 }
                               }
                             }),
-                            
                       ],
                     ),
                   ))
